@@ -45,6 +45,6 @@ This project was developed as part of **Western University’s Master of Data An
 - **Garima Gambhir**  
 - **Ritika Pandey**  
 - **Semal Shastri**  
-- **Sumedha**  
+- **Sumedha Galgali**  
 
 ---
