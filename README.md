@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction-in-Telecom
+# Customer-Churn-Prediction-in-Telecom (Using Python)
 
 ## 📌 Project Overview  
 Customer churn is a critical issue in the telecom industry, directly impacting revenue and customer retention strategies. This project leverages **machine learning** to predict customer churn, enabling telecom providers to identify at-risk customers and take proactive measures.
