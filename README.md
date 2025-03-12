@@ -1,6 +1,4 @@
 # Customer-Churn-Prediction-in-Telecom
-Customer churn prediction in the telecom industry using machine learning. Models include Logistic Regression, SVM, Random Forest, Gradient Boosting, and CatBoost. The project applies feature engineering, data preprocessing, and model evaluation to identify at-risk customers.
-
 
 ## 📌 Project Overview  
 Customer churn is a critical issue in the telecom industry, directly impacting revenue and customer retention strategies. This project leverages **machine learning** to predict customer churn, enabling telecom providers to identify at-risk customers and take proactive measures.
